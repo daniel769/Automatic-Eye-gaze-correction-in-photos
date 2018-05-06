@@ -1,0 +1,5 @@
+work plan
+
+- Eye segmentration from parabula estimation (start from user clicks)
+- Texture synthesis
+- correction angle copmutation
